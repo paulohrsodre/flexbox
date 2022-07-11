@@ -1,6 +1,8 @@
-# Flexbox
+# Posicionando elementos com Flexbox em CSS
 
-## Fundamentos
+## Conteúdo do Curso
+
+### Fundamentos
 - Estrutura básica do display:flex;
   - Flex direction
   - Flex wrap
@@ -16,5 +18,5 @@
   - Order
   - Align self
  
- ##Projeto
+ ## Projeto
   - Landing page utilizando os fundamentos acima listados, responsividade e boas práticas
